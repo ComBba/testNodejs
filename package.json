@@ -1,0 +1,17 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "res_json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^7.2.1",
+    "express": "^4.16.4",
+    "jayson": "^2.1.0",
+    "web3": "git+https://github.com/ComBba/web3.js.git#develop"
+  }
+}

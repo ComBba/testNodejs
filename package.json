@@ -10,8 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "bignumber.js": "^7.2.1",
+    "curl": "^0.1.4",
     "express": "^4.16.4",
     "jayson": "^2.1.0",
+    "request": "^2.88.0",
     "web3": "git+https://github.com/ComBba/web3.js.git#develop"
   }
 }
